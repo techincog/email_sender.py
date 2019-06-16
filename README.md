@@ -23,6 +23,10 @@ SMTP (Simple Mail Transfer Protocol) is a communication protocol for mail transm
 <b>Python Tutorial: Send Emails Using Python</b> - https://ctechf.com/send-emails-using-python/
 
 
+
+For more information visit: https://ctechf.com/email_sender-py-source-code-library-python/
+
+
 <h2>Notice</h2>
 
 ✓ Source Code Can be used free, for commercial and non-commercial use
@@ -30,9 +34,5 @@ SMTP (Simple Mail Transfer Protocol) is a communication protocol for mail transm
 ✓ You can make modifications to source and re-publish it.
 <br>
 ✓ Crediting isn’t required, but linking back is greatly appreciated and allows us to gain exposure.
-
-<br>
- For more information visit: https://ctechf.com/email_sender-py-source-code-library-python/
-<br>
 
 Source Code by admin@ctechf.com from https://ctechf.com/
